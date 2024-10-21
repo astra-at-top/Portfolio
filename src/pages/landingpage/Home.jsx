@@ -11,9 +11,9 @@ function Home() {
             <Navbar />
             <Profilelink />
             <Hero />
-            {/* Add other components or sections here */}
             <Seperators title={"Projects"} />
             <Projectcards />
+            <Seperators title={"Skills"} viewall={false} />
         </div>
     );
 }
