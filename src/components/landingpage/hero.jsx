@@ -13,9 +13,9 @@ function Hero(){
                 </button>
             </div>
             <div className="flex flex-col items-center flex-1 relative w-full md:w-auto">
-                <img className="absolute top-10 md:top-20 left-10 w-1/4" src="/Design.png" alt="Design" />
-                <img className="absolute bottom-0 right-0 w-1/6 " src="/Dots.png" alt="Dots" />
-                <img className="w-full h-auto md:h-full z-10" src="/hero.png" alt="Hero" />
+                <img className="absolute top-10 md:top-20 left-10 w-1/4" src="./Design.png" alt="Design" />
+                <img className="absolute bottom-0 right-0 w-1/6 " src="./Dots.png" alt="Dots" />
+                <img className="w-full h-auto md:h-full z-10" src="./hero.png" alt="Hero" />
             </div>
         </div>
     )

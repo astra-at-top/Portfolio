@@ -6,7 +6,7 @@ function Projectcards(){
                 {[1, 2, 3].map((item, index) => (
                     <div key={index} className="border shadow-lg overflow-hidden max-w-[300px] m-2">
                         <div className="">
-                            <img src="/Rectangle.jpg" alt="Project thumbnail" className="w-full h-auto rounded" />
+                            <img src="./Rectangle.jpg" alt="Project thumbnail" className="w-full h-auto rounded" />
                             <div>
                                 <div className="flex flex-wrap gap-2 p-2 border">
                                     <span className="bg-purple-700 text-gray-300 px-3 py-1 text-xs">HTML</span>

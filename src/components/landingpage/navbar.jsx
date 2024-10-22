@@ -10,7 +10,7 @@ function Navbar() {
                 {/* Logo/Name */}
                 <div className="text-xl font-bold ">
                     <Link to="/" className='flex items-center gap-3'>
-                        <img src="/Logo.svg" alt="logo" className="w-10 h-10" />
+                        <img src="./Logo.svg" alt="logo" className="w-10 h-10" />
                         Prateek
                     </Link>
                 </div>
