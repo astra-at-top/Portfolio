@@ -4,7 +4,7 @@ function Seperators({title , viewall = true}){
             <div className="relative  md:mb-0">
                 <span className="text-purple-400 text-2xl md:text-4xl">#</span>
                 <span className="text-white text-2xl md:text-4xl">{title}</span>
-                <div className="h-px bg-purple-800 w-full md:w-[350px] absolute top-full top-1/2 left-0 left-full transform -translate-y-1/2 mt-2 mt-0"></div>
+                <div className="h-px bg-purple-800 w-full md:w-[350px] absolute  top-1/2 left-0 left-full transform -translate-y-1/2 mt-1 ms-2 "></div>
             </div>
             {
                 viewall && <div className="text-white text-sm md:text-base  ">

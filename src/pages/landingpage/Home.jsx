@@ -7,6 +7,7 @@ import Projectcards from '../../components/landingpage/projectcrads';
 import Skills from '@/components/landingpage/Skills';
 import Aboutme from '@/components/landingpage/aboutme';
 import Contactme from '@/components/landingpage/contactme';
+import Footer from '@/components/landingpage/footer';
 
 function Home() {
     return (
@@ -22,6 +23,7 @@ function Home() {
             <Aboutme/>
             <Seperators title={"Contacts"} viewall={false} />
             <Contactme/>
+            <Footer/>
         </div>
     );
 }
