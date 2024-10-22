@@ -2,12 +2,12 @@ function Aboutme(){
     return <div className="container mx-auto px-4 text-white">
         <div className="grid grid-cols-12">
             <div className=" col-span-12 md:col-span-6  flex flex-col gap-10">
-                <div>Hello, i am Prateek! </div>
+                <div>Hello, I am Prateek! </div>
                 <div>
-                I’m a self-taught front-end developer based in Kyiv, Ukraine. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. 
+                I'm a passionate MERN stack developer based in India. With 2 years of experience, I specialize in building full-stack web applications using MongoDB, Express.js, React, and Node.js.
                 </div>
                 <div>
-                    Transforming my creativity and knowledge into a websites has been my passion for over a year. I have been helping various clients to establish their presence online. I always strive to learn about the newest technologies and frameworks.
+                    Transforming ideas into robust, scalable web solutions has been my driving force for the past two years. I've had the privilege of working with various clients, helping them create powerful web applications that solve real-world problems. I'm constantly expanding my knowledge in the MERN ecosystem and exploring new technologies to enhance my skill set.
                 </div>
                 <button className="border border-purple-700 w-fit px-5 py-3 hover:bg-purple-700">
                     Read More

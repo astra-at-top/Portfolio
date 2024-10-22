@@ -2,7 +2,7 @@ function Footer() {
     return (
         <div className="border-t mt-10">
             <div className="container mx-auto text-white py-6 md:py-10 px-4">
-                <div className="flex flex-row flex-wrap justify-center gap-5 md:justify-between items-start mb-6 md:mb-0">
+                <div className="flex flex-row flex-wrap  gap-5 justify-between items-start mb-6 md:mb-0">
                     <div className="flex items-center mb-4 md:mb-0">
                         <img src="./Logo.svg" className="h-8 w-8 md:h-10 md:w-10" alt="Logo" />
                         <span className="ms-2 font-semibold text-xl md:text-2xl">Prateek</span>
